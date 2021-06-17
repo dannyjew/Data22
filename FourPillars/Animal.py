@@ -21,3 +21,4 @@ class Animal:
 
 cat = Animal()
 cat.breathe()
+print("Hello")
